@@ -39,7 +39,7 @@ To set up a loacal development environment, please follow the following steps:
 1. Clone the repo
 
    ```shell
-    git clone " github link "
+    git clone "https://github.com/harshprajapati1998/585_Final-Project"
    ```
 
 2. Change directory to the project directory
